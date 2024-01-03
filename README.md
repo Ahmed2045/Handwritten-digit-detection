@@ -1,0 +1,1 @@
+The provided code is an implementation of a Convolutional Neural Network (CNN) using Keras and TensorFlow for classifying handwritten digits from the MNIST dataset and SVHN,also it uese easyOCR to make sure of model performance.
